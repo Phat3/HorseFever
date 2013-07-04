@@ -1,7 +1,7 @@
-#       *.DS_Store
-#	*.classpath
-#	*.project
-#	*.settings/
-#	*.svn
-#       *.svn/
-#       *target
+       *.DS_Store
+	*.classpath
+	*.project
+	*.settings/
+	*.svn
+       *.svn/
+       *target
