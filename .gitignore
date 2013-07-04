@@ -2,5 +2,6 @@
 #	*.classpath
 #	*.project
 #	*.settings/
-#	*.svn/
+#	*.svn
+#       *.svn/
 #       *target
