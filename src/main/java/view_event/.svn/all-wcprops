@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/176/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/view_event
+END
+NomeGiocatoreEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/174/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/view_event/NomeGiocatoreEvent.java
+END
+PiazzaScommessa2Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/127/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/view_event/PiazzaScommessa2Event.java
+END
+PiazzaTruccaCorsaEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/174/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/view_event/PiazzaTruccaCorsaEvent.java
+END
+PiazzaScommessaEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/127/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/view_event/PiazzaScommessaEvent.java
+END
+RispostaDomandaScommessaEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/174/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/view_event/RispostaDomandaScommessaEvent.java
+END
+HorseFeverEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/125/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/view_event/HorseFeverEvent.java
+END

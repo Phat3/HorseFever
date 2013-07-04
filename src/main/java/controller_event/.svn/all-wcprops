@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/174/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/controller_event
+END
+TruccaCorsaEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/127/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/controller_event/TruccaCorsaEvent.java
+END
+ScommessaEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/174/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/controller_event/ScommessaEvent.java
+END
+NomeGiocatoreControllerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/154/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/controller_event/NomeGiocatoreControllerEvent.java
+END
+EmptyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/169/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/controller_event/EmptyEvent.java
+END
+VincitoreEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/148/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/controller_event/VincitoreEvent.java
+END
+RiepilogoTurnoEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/128/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/controller_event/RiepilogoTurnoEvent.java
+END
+DomandaScommessa2Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/127/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/controller_event/DomandaScommessa2Event.java
+END
+ErroreScommessa1Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/128/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/controller_event/ErroreScommessa1Event.java
+END
+CorsaEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/148/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/controller_event/CorsaEvent.java
+END
+ErroreScommessa2Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/127/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/controller_event/ErroreScommessa2Event.java
+END
+Scommessa2Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/127/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/controller_event/Scommessa2Event.java
+END

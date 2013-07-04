@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/186/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/model
+END
+ModelInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/168/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/model/ModelInterface.java
+END
+Mazzo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/126/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/model/Mazzo.java
+END
+CartaMovimento.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/176/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/model/CartaMovimento.java
+END
+Scommessa.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/126/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/model/Scommessa.java
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/184/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/model/Model.java
+END
+Giocatore.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/171/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/model/Giocatore.java
+END
+CartaAzione.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/120/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/model/CartaAzione.java
+END
+Scuderia.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/125/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/model/Scuderia.java
+END
+Corsa.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/186/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/model/Corsa.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/186/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/model/Config.java
+END
+CartaPersonaggio.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/176/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/model/CartaPersonaggio.java
+END
+Carta.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sebastiano-mariani-riccardo-mastellone/!svn/ver/176/horseFever_sebastiano.mariani-riccardo.mastellone/src/main/java/model/Carta.java
+END
